@@ -1,0 +1,14 @@
+#compiled class file
+*.class
+
+#IDEA files
+*/.idea/
+.idea/
+*.iml
+
+#maven files
+/target/*
+/target/
+*/target/*
+
+
